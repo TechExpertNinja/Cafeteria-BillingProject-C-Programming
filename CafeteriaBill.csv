@@ -1,0 +1,85 @@
+Customer,Date,Item,Quantity,Price
+kimberly,Jan 28 2024,chips,1,70
+kimberly,Jan 28 2024,juice,1,25
+kimberly,Jan 28 2024,smookie,1,40
+Customer,Date,Item,Quantity,Price
+kimberly,Jan 28 2024,chips,1,70
+kimberly,Jan 28 2024,juice,1,25
+kimberly,Jan 28 2024,smookie,1,40
+Customer, Date, Item, Quantity, Price 
+kimberly,Jan 28 2024,chips,1,70
+kimberly,Jan 28 2024,juice,1,25
+kimberly,Jan 28 2024,smookie,1,40
+Customer, Date, Item, Quantity, Price 
+kenny,Jan 28 2024,banana,2,5
+kenny,Jan 28 2024,watermellon,1,20
+kenny,Jan 28 2024,orange,2,10
+kenny,Jan 28 2024,lemon,2,15
+kenny,Jan 28 2024,pineapple,1,25
+Customer, Date, Item, Quantity, Price 
+kenny,Jan 28 2024,banana,2,5
+kenny,Jan 28 2024,watermellon,1,20
+kenny,Jan 28 2024,orange,2,10
+kenny,Jan 28 2024,lemon,2,15
+kenny,Jan 28 2024,pineapple,1,25
+Customer, Date, Item, Quantity, Price 
+joe,Jan 28 2024,eggs,3,20
+joe,Jan 28 2024,sausages,2,25
+Customer, Date, Item, Quantity, Price 
+kimberly,Jan 28 2024,chips,1,70
+kimberly,Jan 28 2024,juice,1,25
+kimberly,Jan 28 2024,smookie,1,40
+Customer, Date, Item, Quantity, Price 
+kenny,Jan 28 2024,banana,2,5
+kenny,Jan 28 2024,watermellon,1,20
+kenny,Jan 28 2024,orange,2,10
+kenny,Jan 28 2024,lemon,2,15
+kenny,Jan 28 2024,pineapple,1,25
+Customer, Date, Item, Quantity, Price 
+joe,Jan 28 2024,eggs,3,20
+joe,Jan 28 2024,sausages,2,25
+Customer, Date, Item, Quantity, Price 
+joe,Jan 28 2024,eggs,3,20
+joe,Jan 28 2024,sausages,2,25
+Customer, Date, Item, Quantity, Price 
+Alex,Jan 28 2024,smookie,2,35
+Alex,Jan 28 2024,samosa,2,25
+Alex,Jan 28 2024,juice,1,50
+Customer, Date, Item, Quantity, Price 
+kimberly,Jan 28 2024,chips,1,70
+kimberly,Jan 28 2024,juice,1,25
+kimberly,Jan 28 2024,smookie,1,40
+Customer, Date, Item, Quantity, Price 
+kenny,Jan 28 2024,banana,2,5
+kenny,Jan 28 2024,watermellon,1,20
+kenny,Jan 28 2024,orange,2,10
+kenny,Jan 28 2024,lemon,2,15
+kenny,Jan 28 2024,pineapple,1,25
+Customer, Date, Item, Quantity, Price 
+joe,Jan 28 2024,eggs,3,20
+joe,Jan 28 2024,sausages,2,25
+Customer, Date, Item, Quantity, Price 
+Alex,Jan 28 2024,smookie,2,35
+Alex,Jan 28 2024,samosa,2,25
+Alex,Jan 28 2024,juice,1,50
+Customer, Date, Item, Quantity, Price 
+Alex,Jan 28 2024,smookie,2,35
+Alex,Jan 28 2024,samosa,2,25
+Alex,Jan 28 2024,juice,1,50
+Customer, Date, Item, Quantity, Price 
+kimberly,Jan 28 2024,chips,1,70.00
+kimberly,Jan 28 2024,juice,1,25.00
+kimberly,Jan 28 2024,smookie,1,40.00
+Customer, Date, Item, Quantity, Price 
+kenny,Jan 28 2024,banana,2,5.00
+kenny,Jan 28 2024,watermellon,1,20.00
+kenny,Jan 28 2024,orange,2,10.00
+kenny,Jan 28 2024,lemon,2,15.00
+kenny,Jan 28 2024,pineapple,1,25.00
+Customer, Date, Item, Quantity, Price 
+joe,Jan 28 2024,eggs,3,20.00
+joe,Jan 28 2024,sausages,2,25.00
+Customer, Date, Item, Quantity, Price 
+Alex,Jan 28 2024,smookie,2,35.00
+Alex,Jan 28 2024,samosa,2,25.00
+Alex,Jan 28 2024,juice,1,50.00

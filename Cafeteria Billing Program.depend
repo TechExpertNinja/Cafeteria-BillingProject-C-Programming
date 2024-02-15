@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699916946 source:c:\users\hp 840 g4 touch\desktop\zu cafeteria billing project\cafeteria billing program\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
